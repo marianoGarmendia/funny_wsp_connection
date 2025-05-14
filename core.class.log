@@ -1,12 +1,12 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '5492214371684@s.whatsapp.net',
+    remoteJid: '5491135620347@s.whatsapp.net',
     fromMe: false,
-    id: '3A849400AB89B056F5F8',
+    id: '3AB8F17B74CF979A2521',
     participant: undefined
   },
-  messageTimestamp: 1746885167,
-  pushName: 'Mariano Garmendia',
+  messageTimestamp: 1747264082,
+  pushName: 'Sofia',
   broadcast: false,
   message: Message {
     conversation: 'Hola',
@@ -16,15 +16,14 @@
       messageSecret: [Uint8Array]
     }
   },
-  verifiedBizName: 'Mariano Garmendia',
   body: 'Hola',
-  name: 'Mariano Garmendia',
-  from: '5492214371684',
-  host: '5491130899567'
+  name: 'Sofia',
+  from: '5491135620347',
+  host: '5491151568057'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0345c410-897d-47d1-87b3-89533c135845',
-  keyword: 'key_b689dd52-79b5-4a8d-867e-4cca31282c6c',
+  ref: 'ans_8807e0ae-03c9-43c5-96c7-ac00554118e6',
+  keyword: 'key_87d6a23b-b309-482c-8533-0e6367cb4891',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -37,34 +36,34 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '33f248d5901aa1a1106b37de50f9ee22'
+  refSerialize: 'c0210e0f68612a4500a9fab1ff8e5c46'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5491136131454@s.whatsapp.net',
+    remoteJid: '5491135620347@s.whatsapp.net',
     fromMe: false,
-    id: '08F512DB97314A7FAB1C5B782F88926A',
+    id: '3AF8C01DAB120766A980',
     participant: undefined
   },
-  messageTimestamp: 1746885191,
-  pushName: 'Diego',
+  messageTimestamp: 1747264111,
+  pushName: 'Sofia',
   broadcast: false,
   message: Message {
-    conversation: 'Hola !!!!',
+    conversation: 'Quería alquilar el mobiliario para el sábado próximo',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Hola !!!!',
-  name: 'Diego',
-  from: '5491136131454',
-  host: '5491130899567'
+  body: 'Quería alquilar el mobiliario para el sábado próximo',
+  name: 'Sofia',
+  from: '5491135620347',
+  host: '5491151568057'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0345c410-897d-47d1-87b3-89533c135845',
-  keyword: 'key_b689dd52-79b5-4a8d-867e-4cca31282c6c',
+  ref: 'ans_8807e0ae-03c9-43c5-96c7-ac00554118e6',
+  keyword: 'key_87d6a23b-b309-482c-8533-0e6367cb4891',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -77,5 +76,125 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '33f248d5901aa1a1106b37de50f9ee22'
+  refSerialize: 'c0210e0f68612a4500a9fab1ff8e5c46'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491135620347@s.whatsapp.net',
+    fromMe: false,
+    id: '3A45D1D33A393CBA7AEC',
+    participant: undefined
+  },
+  messageTimestamp: 1747264117,
+  pushName: 'Sofia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sofía',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sofía',
+  name: 'Sofia',
+  from: '5491135620347',
+  host: '5491151568057'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8807e0ae-03c9-43c5-96c7-ac00554118e6',
+  keyword: 'key_87d6a23b-b309-482c-8533-0e6367cb4891',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c0210e0f68612a4500a9fab1ff8e5c46'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491135620347@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3EC50FE465C42FB10D',
+    participant: undefined
+  },
+  messageTimestamp: 1747264126,
+  pushName: 'Sofia',
+  broadcast: false,
+  message: Message {
+    conversation: 'En City bell',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'En City bell',
+  name: 'Sofia',
+  from: '5491135620347',
+  host: '5491151568057'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8807e0ae-03c9-43c5-96c7-ac00554118e6',
+  keyword: 'key_87d6a23b-b309-482c-8533-0e6367cb4891',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c0210e0f68612a4500a9fab1ff8e5c46'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491135620347@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACB06EC9459E0CA2E4D',
+    participant: undefined
+  },
+  messageTimestamp: 1747264142,
+  pushName: 'Sofia',
+  broadcast: false,
+  message: Message {
+    conversation: '12.30 am de 16 hs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '12.30 am de 16 hs',
+  name: 'Sofia',
+  from: '5491135620347',
+  host: '5491151568057'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8807e0ae-03c9-43c5-96c7-ac00554118e6',
+  keyword: 'key_87d6a23b-b309-482c-8533-0e6367cb4891',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c0210e0f68612a4500a9fab1ff8e5c46'
 }
