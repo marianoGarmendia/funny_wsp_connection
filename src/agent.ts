@@ -4,7 +4,7 @@ export const chatAgent = async (message: string, ctx: any) => {
 
   try {
     const response = await fetch(
-      "https://72jdmlb6-3010.brs.devtunnels.ms/agent",
+      "https://funnyagentapi-production.up.railway.app/agent",
       {
         method: "POST",
         headers: {
